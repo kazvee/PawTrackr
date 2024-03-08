@@ -6,6 +6,10 @@
 
 <hr>
 
+<details>
+    
+<summary>Click to view the dev team</summary>
+
 <h1 align="center">Meet the Team</h1>
 
 <!-- Meet the Team -->
@@ -58,6 +62,8 @@
 </span>
 </kbd>
 </div>
+
+</details>
 
 *** 
 
